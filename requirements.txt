@@ -1,0 +1,7 @@
+bokeh
+datetime
+numpy 
+pandas as pd
+plotly
+__future__ 
+ipywidgets
